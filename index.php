@@ -23,12 +23,12 @@
                     $post_date = $row['post_date'];
                     $post_image = $row['post_image'];
                     $post_content= $row['post_content'];
-                // }
+                 //}
                 ?>
 
                 <h1 class="page-header">
-                    Page Heading
-                    <small>Secondary Text</small>
+                    Product Presented by the Hzty
+                    <small>You may take a look</small>
                 </h1>
 
                 <!-- First Blog Post -->
@@ -38,7 +38,7 @@
                 <p class="lead">
                     by <a href="index.php"><?php echo $post_author ?></a>
                 </p>
-                <p><span class="glyphicon glyphicon-time"></span> Posted on August 28, 2013 at 10:00 PM</p>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on Novenmber 10, 2018 at 5:20 PM</p>
                 <hr>
                 <img class="img-responsive" src="images/<?php echo $post_image; ?>" alt="">
                 <hr>

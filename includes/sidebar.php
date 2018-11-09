@@ -2,9 +2,9 @@
 
 
 
-                <!-- Blog Search Well -->
+                <!-- Product Search Well -->
                 <div class="well">
-                    <h4>Blog Search</h4>
+                    <h4>Product Search</h4>
                     <form action = "search.php" method = "post">
                     <div class="input-group">
                         <input name = "search" type="text" class="form-control">
@@ -23,7 +23,7 @@
 
 
 
-                <!-- Blog Categories Well -->
+                <!-- Product Categories Well -->
                 <div class="well">
 
                    <?php
@@ -31,7 +31,7 @@
                     $select_categories_sidebar = mysqli_query($connection, $query);
                     ?>
 
-                    <h4>Blog Categories</h4>
+                    <h4>Product Categories</h4>
                     <div class="row">
                         <div class="col-lg-12">
                             <ul class="list-unstyled">
