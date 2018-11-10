@@ -1,5 +1,4 @@
-# ED01-CMS
-## CMS project from Udemy course
+the Hzty
 
 ![home page](../assets/a.png?raw=true)
 ![admin home page](../assets/b.png?raw=true)
