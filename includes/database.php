@@ -15,10 +15,10 @@
 	$con = mysqli_connect(DB_HOST,DB_USER,DB_PASS,DB_NAME);
 	
 	// define other constants
-	define('SITENAME', 'Hi-Lo-Yo', false);
-	define('SITESUBTITLE', '&nbsp;&nbsp;&nbsp;Shooting Craps in Sin City', false);
+	define('SITENAME', 'The Hzty', false);
+	define('SITESUBTITLE', '&nbsp;&nbsp;&nbsp;Products Presented', false);
 	define('POSTSPERPAGE', 10);
-	define('AUTHOR', 'Chi Lin', false);
+	define('AUTHOR', 'Daniel Yang', false);
 	define('TIMEOUT', 120);
 	define('HASHCOST', 12);
 	define('TZ', 'America/Los_Angeles');
